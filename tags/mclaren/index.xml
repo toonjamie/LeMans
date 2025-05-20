@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>McLaren on Le Mans 24hr fan page</title>
+    <link>/tags/mclaren/</link>
+    <description>Recent content in McLaren on Le Mans 24hr fan page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Sat, 17 May 2025 22:24:21 +0100</lastBuildDate><atom:link href="/tags/mclaren/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>McLaren F1 GTR</title>
+      <link>/cars/mclarenf1gtr/</link>
+      <pubDate>Sat, 17 May 2025 22:24:21 +0100</pubDate>
+      
+      <guid>/cars/mclarenf1gtr/</guid>
+      <description>Photo:24h-lemans.com</description>
+    </item>
+    
+  </channel>
+</rss>

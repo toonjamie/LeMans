@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deaths on Le Mans 24hr fan page</title>
+    <link>/tags/deaths/</link>
+    <description>Recent content in Deaths on Le Mans 24hr fan page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Thu, 08 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/deaths/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1955</title>
+      <link>/races/race1955/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/races/race1955/</guid>
+      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo. 911 etc&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
