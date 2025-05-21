@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>winners on Le Mans 24hr fan page</title>
+    <title>Winners on Le Mans 24hr fan page</title>
     <link>/tags/winners/</link>
-    <description>Recent content in winners on Le Mans 24hr fan page</description>
+    <description>Recent content in Winners on Le Mans 24hr fan page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Sat, 17 May 2025 22:45:36 +0100</lastBuildDate><atom:link href="/tags/winners/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 May 2025 01:24:09 +0100</lastBuildDate><atom:link href="/tags/winners/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Porsche 936</title>
+      <link>/cars/porsche936/</link>
+      <pubDate>Wed, 21 May 2025 01:24:09 +0100</pubDate>
+      
+      <guid>/cars/porsche936/</guid>
+      <description>Photo:https://autasport.com</description>
+    </item>
+    
+    <item>
+      <title>Ferrari 250 Testa Rossa</title>
+      <link>/cars/ferrari250testarossa/</link>
+      <pubDate>Wed, 21 May 2025 01:04:41 +0100</pubDate>
+      
+      <guid>/cars/ferrari250testarossa/</guid>
+      <description>V12, 2,953 cc, 296 hp, 168 mph
+Photo:https://auta5p.eu</description>
+    </item>
+    
+    <item>
+      <title>Porsche 919 Hybrid</title>
+      <link>/cars/porsche919hybrid/</link>
+      <pubDate>Wed, 21 May 2025 00:51:01 +0100</pubDate>
+      
+      <guid>/cars/porsche919hybrid/</guid>
+      <description>Photo:Dr. Ing. h.c. F. Porsche AG</description>
+    </item>
+    
     <item>
       <title>Tom Kristensen</title>
       <link>/drivers/kristensen_tom/</link>

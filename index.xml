@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Le Mans 24hr fan page</title>
-    <link>/</link>
-    <description>Recent content on Le Mans 24hr fan page</description>
+    <title>Cars on Le Mans 24hr fan page</title>
+    <link>/cars/</link>
+    <description>Recent content in Cars on Le Mans 24hr fan page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Sun, 18 May 2025 01:03:23 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 May 2025 01:24:09 +0100</lastBuildDate><atom:link href="/cars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Porsche 936</title>
+      <link>/cars/porsche936/</link>
+      <pubDate>Wed, 21 May 2025 01:24:09 +0100</pubDate>
+      
+      <guid>/cars/porsche936/</guid>
+      <description>Photo:https://autasport.com</description>
+    </item>
+    
+    <item>
+      <title>Ferrari 250 Testa Rossa</title>
+      <link>/cars/ferrari250testarossa/</link>
+      <pubDate>Wed, 21 May 2025 01:04:41 +0100</pubDate>
+      
+      <guid>/cars/ferrari250testarossa/</guid>
+      <description>V12, 2,953 cc, 296 hp, 168 mph
+Photo:https://auta5p.eu</description>
+    </item>
+    
+    <item>
+      <title>Porsche 919 Hybrid</title>
+      <link>/cars/porsche919hybrid/</link>
+      <pubDate>Wed, 21 May 2025 00:51:01 +0100</pubDate>
+      
+      <guid>/cars/porsche919hybrid/</guid>
+      <description>Photo:Dr. Ing. h.c. F. Porsche AG</description>
+    </item>
+    
     <item>
       <title>Ferrari 499 P</title>
       <link>/cars/ferrari499p/</link>
@@ -44,27 +72,6 @@
     </item>
     
     <item>
-      <title>Tom Walkinshaw</title>
-      <link>/nondrivers/walkinshaw_tom/</link>
-      <pubDate>Sat, 17 May 2025 23:28:55 +0100</pubDate>
-      
-      <guid>/nondrivers/walkinshaw_tom/</guid>
-      <description>TWR - Tom Walkinshaw Racing
-Photo:snaplap.net
-As driver:
-Year Pos Car 1976 DNF BMW 3.5CSL 1977 DNF BMW 3.0 CSL 1981 DNF Mazda RX-7 1982 DNF Mazda RX-7 </description>
-    </item>
-    
-    <item>
-      <title>Tom Kristensen</title>
-      <link>/drivers/kristensen_tom/</link>
-      <pubDate>Sat, 17 May 2025 22:45:36 +0100</pubDate>
-      
-      <guid>/drivers/kristensen_tom/</guid>
-      <description> Year Pos Car 1997 1st TWR Porsche WSC-95 1998 DNF BMW V12 LM 1999 DNF BMW V12 LMR 2000 1st Audi R8	LMP900 2001 1st Audi R8	LMP900 2002 1st Audi R8	LMP900 2003 1st Bentley Speed 8 2004 1st Audi R8	LMP1 2005 1st Audi R8	LMP1 2006 3rd Audi R10 TDI 2007 DNF Audi R10 TDI 2008 1st Audi R10 TDI 2009 3rd Audi R15 TDI 2010 3rd Audi R15 TDI plus 2011 DNF Audi R18 TDI 2012 2nd Audi R18 e-tron quattro 2013 1st Audi R18 e-tron quattro 2014 2nd Audi R18 e-tron quattro </description>
-    </item>
-    
-    <item>
       <title>McLaren F1 GTR</title>
       <link>/cars/mclarenf1gtr/</link>
       <pubDate>Sat, 17 May 2025 22:24:21 +0100</pubDate>
@@ -89,70 +96,6 @@ Year Pos Car 1976 DNF BMW 3.5CSL 1977 DNF BMW 3.0 CSL 1981 DNF Mazda RX-7 1982 D
       
       <guid>/cars/porsche962c/</guid>
       <description>Photo:Wouter Melissen</description>
-    </item>
-    
-    <item>
-      <title>1956</title>
-      <link>/races/race1956/</link>
-      <pubDate>Tue, 13 May 2025 23:14:40 +0100</pubDate>
-      
-      <guid>/races/race1956/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jaguar</title>
-      <link>/manufacturers/jaguar/</link>
-      <pubDate>Mon, 12 May 2025 01:12:37 +0100</pubDate>
-      
-      <guid>/manufacturers/jaguar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bell, Derek</title>
-      <link>/drivers/bell_derek/</link>
-      <pubDate>Mon, 12 May 2025 01:08:03 +0100</pubDate>
-      
-      <guid>/drivers/bell_derek/</guid>
-      <description>Derek Bell Brit Year Pos Car 1970 DNF Ferrari 512S 1971 DNF Porsche 917LH	S 1972 8th Ferrari 365 GTB/4	GT 1973 DNF Mirage M6-Ford Cosworth 1974 4th Gulf GR7-Ford Cosworth 1975 1st Mirage GR8-Ford Cosworth 1976 5th Mirage GR8-Ford Cosworth 1977 DNF Renault Alpine A442 1978 DNF Renault Alpine A442A 1979 DNF Mirage M10-Ford Cosworth 1980 13th Porsche 924 Carrera GT 1981 1st Porsche 936 1982 1st Porsche 956 1983 2nd Porsche 956 1985 3rd Porsche 962C 1986 1st Porsche 962C 1987 1st Porsche 962C 1988 2nd Porsche 962C 1989 DNF Porsche 962C GTi 1990 4th Porsche 962C 1991 7th Porsche 962C 1992 12th Porsche 962C GTi 1993 10th Courage C30LM-Porsche 1994 6th Kremer K8 Spyder-Porsche 1995 3rd McLaren F1 GTR 1996 6th McLaren F1 GTR </description>
-    </item>
-    
-    <item>
-      <title>1955</title>
-      <link>/races/race1955/</link>
-      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/races/race1955/</guid>
-      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo. 911 etc&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Porsche</title>
-      <link>/manufacturers/porsche/</link>
-      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/manufacturers/porsche/</guid>
-      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo. 911 etc&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Conway, Mike</title>
-      <link>/drivers/conway_mike/</link>
-      <pubDate>Sat, 03 May 2025 23:02:03 +0100</pubDate>
-      
-      <guid>/drivers/conway_mike/</guid>
-      <description>The info bout MC incl photo goes here</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Our website builds with Hugo static site generator and Mainroad theme. This demo allows you to see what Mainroad based website looks like before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the combination of Hugo and Mainroad can do.
-About Mainroad Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.</description>
     </item>
     
   </channel>
