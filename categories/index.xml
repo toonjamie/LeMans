@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Le Mans 24hr fan page</title>
-    <link>/categories/</link>
+    <link>/LeMans/categories/</link>
     <description>Recent content in Categories on Le Mans 24hr fan page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Sun, 18 May 2025 01:03:23 +0100</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 May 2025 01:24:09 +0100</lastBuildDate><atom:link href="/LeMans/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cars</title>
-      <link>/categories/cars/</link>
-      <pubDate>Sun, 18 May 2025 01:03:23 +0100</pubDate>
+      <link>/LeMans/categories/cars/</link>
+      <pubDate>Wed, 21 May 2025 01:24:09 +0100</pubDate>
       
-      <guid>/categories/cars/</guid>
+      <guid>/LeMans/categories/cars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Non-Drivers</title>
-      <link>/categories/non-drivers/</link>
+      <link>/LeMans/categories/non-drivers/</link>
       <pubDate>Sat, 17 May 2025 23:28:55 +0100</pubDate>
       
-      <guid>/categories/non-drivers/</guid>
+      <guid>/LeMans/categories/non-drivers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drivers</title>
-      <link>/categories/drivers/</link>
+      <link>/LeMans/categories/drivers/</link>
       <pubDate>Sat, 17 May 2025 22:45:36 +0100</pubDate>
       
-      <guid>/categories/drivers/</guid>
+      <guid>/LeMans/categories/drivers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Races</title>
-      <link>/categories/races/</link>
+      <link>/LeMans/categories/races/</link>
       <pubDate>Tue, 13 May 2025 23:14:40 +0100</pubDate>
       
-      <guid>/categories/races/</guid>
+      <guid>/LeMans/categories/races/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manufacturers</title>
-      <link>/categories/manufacturers/</link>
+      <link>/LeMans/categories/manufacturers/</link>
       <pubDate>Mon, 12 May 2025 01:12:37 +0100</pubDate>
       
-      <guid>/categories/manufacturers/</guid>
+      <guid>/LeMans/categories/manufacturers/</guid>
       <description></description>
     </item>
     

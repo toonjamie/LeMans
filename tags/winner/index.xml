@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Winner on Le Mans 24hr fan page</title>
-    <link>/tags/winner/</link>
+    <link>/LeMans/tags/winner/</link>
     <description>Recent content in Winner on Le Mans 24hr fan page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Sun, 18 May 2025 01:03:23 +0100</lastBuildDate><atom:link href="/tags/winner/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 May 2025 01:03:23 +0100</lastBuildDate><atom:link href="/LeMans/tags/winner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ferrari 499 P</title>
-      <link>/cars/ferrari499p/</link>
+      <link>/LeMans/cars/ferrari499p/</link>
       <pubDate>Sun, 18 May 2025 01:03:23 +0100</pubDate>
       
-      <guid>/cars/ferrari499p/</guid>
+      <guid>/LeMans/cars/ferrari499p/</guid>
       <description>Photo:Mickael Le rouzic</description>
     </item>
     

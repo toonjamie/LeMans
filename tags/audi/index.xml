@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Audi on Le Mans 24hr fan page</title>
-    <link>/tags/audi/</link>
+    <link>/LeMans/tags/audi/</link>
     <description>Recent content in Audi on Le Mans 24hr fan page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Sun, 18 May 2025 00:24:30 +0100</lastBuildDate><atom:link href="/tags/audi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 May 2025 00:24:30 +0100</lastBuildDate><atom:link href="/LeMans/tags/audi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Audi R18 e-tron Quattro</title>
-      <link>/cars/audir18etronquattro/</link>
+      <link>/LeMans/cars/audir18etronquattro/</link>
       <pubDate>Sun, 18 May 2025 00:24:30 +0100</pubDate>
       
-      <guid>/cars/audir18etronquattro/</guid>
+      <guid>/LeMans/cars/audir18etronquattro/</guid>
       <description>Photo:racecarsdirect.com</description>
     </item>
     

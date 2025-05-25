@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Italian on Le Mans 24hr fan page</title>
-    <link>/tags/italian/</link>
+    <link>/LeMans/tags/italian/</link>
     <description>Recent content in Italian on Le Mans 24hr fan page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Wed, 21 May 2025 01:04:41 +0100</lastBuildDate><atom:link href="/tags/italian/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 May 2025 01:04:41 +0100</lastBuildDate><atom:link href="/LeMans/tags/italian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ferrari 250 Testa Rossa</title>
-      <link>/cars/ferrari250testarossa/</link>
+      <link>/LeMans/cars/ferrari250testarossa/</link>
       <pubDate>Wed, 21 May 2025 01:04:41 +0100</pubDate>
       
-      <guid>/cars/ferrari250testarossa/</guid>
+      <guid>/LeMans/cars/ferrari250testarossa/</guid>
       <description>V12, 2,953 cc, 296 hp, 168 mph
 Photo:https://auta5p.eu</description>
     </item>
     
     <item>
       <title>Ferrari 499 P</title>
-      <link>/cars/ferrari499p/</link>
+      <link>/LeMans/cars/ferrari499p/</link>
       <pubDate>Sun, 18 May 2025 01:03:23 +0100</pubDate>
       
-      <guid>/cars/ferrari499p/</guid>
+      <guid>/LeMans/cars/ferrari499p/</guid>
       <description>Photo:Mickael Le rouzic</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1960 on Le Mans 24hr fan page</title>
-    <link>/tags/1960/</link>
+    <link>/LeMans/tags/1960/</link>
     <description>Recent content in 1960 on Le Mans 24hr fan page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Wed, 21 May 2025 01:04:41 +0100</lastBuildDate><atom:link href="/tags/1960/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 May 2025 01:04:41 +0100</lastBuildDate><atom:link href="/LeMans/tags/1960/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ferrari 250 Testa Rossa</title>
-      <link>/cars/ferrari250testarossa/</link>
+      <link>/LeMans/cars/ferrari250testarossa/</link>
       <pubDate>Wed, 21 May 2025 01:04:41 +0100</pubDate>
       
-      <guid>/cars/ferrari250testarossa/</guid>
+      <guid>/LeMans/cars/ferrari250testarossa/</guid>
       <description>V12, 2,953 cc, 296 hp, 168 mph
 Photo:https://auta5p.eu</description>
     </item>
